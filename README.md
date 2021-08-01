@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @anushkachavan38
+- 👋 Hi, I’m Anushka Chavan.
 - 👀 I’m interested in web development.
 - 🌱 I’m currently learning HTML, CSS and JavaScript.
-- 
+- 💞 I'm currently studying at Government Polytechnic Tasgaon.
 
 
 
