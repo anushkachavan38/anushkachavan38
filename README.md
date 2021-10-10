@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Anushka Chavan.
-- 👀 I’m interested in web development.
-- 🌱 I’m currently learning HTML, CSS and JavaScript.
-- 💞 I'm currently studying at Government Polytechnic Tasgaon.
+- 💻 I learned the fundamentals for programming, which is just what I needed as a first step for my career change!!!
+- 🎯 I came in with near zero programming knowledge and halfway in, I'm quite confident of what I can achieve...
 
 
 
